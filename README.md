@@ -7,7 +7,9 @@ Paylaşmak inandığım en güçlü eylem. Bu platform, bilginin biriktikçe de�
 
 Bu, bir ders notu koleksiyonu değil, bilginin, deneyimin ve umudun özgürleşme hikayesidir.
 
-### İçindekiler:
+Not: Yazdıkça ekleyeceğim, şimdlik eklediklerimin listesini aşağıda görebilirsiniz
+
+### Bölüm 1 İçindekiler:
 
 * **Epiktetos'tan Beck'e Uzanan Köprü:** BDT'nin kökleri, Stoacı filozofların öğretileriyle nasıl birleşiyor?
 * **Davranışçılıktan Bilişsel Devrime:** Psikolojideki "kara kutu" anlayışı nasıl aşıldı ve düşüncenin önemi nasıl keşfedildi?
