@@ -1,8 +1,11 @@
 ### Bu Proje Neden Oluşturuldu?
+Bu proje, bir ders notu birikiminden çok daha fazlası. Bilginin sadece dersliklerin duvarları arasında kalmaması, bir okyanus gibi yayılması arzusuyla doğdu. Amacım, yıllar içinde ilmek ilmek işlediğim, her satırına ruhumdan bir parça kattığım bilişsel davranışçı terapi (BDT) notlarını, kapalı kapılar ardında tutmak yerine, tüm öğrencilerimize ve ruh sağlığı profesyonellerine armağan etmekti.
 
-Bu proje, derslerim için hazırladığım bilişsel davranışçı terapi (BDT) notlarını derleyerek herkese açık bir kaynak haline getirme amacıyla doğdu. Amacım, bilgi biriktikçe tüm öğrencilerimiz, ruh sağlığı uzmanları ve bu alana ilgi duyan herkesin kolayca ulaşabileceği, kullanabileceği ve yararlanabileceği bir online kitap oluşturmaktı.
+Bu notlar, BDT'nin sadece bilimsel bir yöntemler bütünü değil, aynı zamanda insanın acısını anlamaya ve ona şifa olmaya adanmış derin bir felsefe olduğunu anlatıyor. Her bölüm, Epiktetos'un kadim bilgeliğinden Aaron Beck'in modern keşiflerine uzanan o büyülü köprüyü inşa ediyor.
 
-Bu notlar, BDT'nin sadece bir teknikler bütünü olmadığını, aynı zamanda insan deneyimini anlamaya ve iyileştirmeye yönelik derin bir felsefeye dayandığını göstermektedir. Bilginin paylaştıkça çoğalacağına inanıyor, bu kaynağın mesleki gelişime ve öğrenmeye katkı sağlamasını umuyorum.
+Paylaşmak inandığım en güçlü eylem. Bu platform, bilginin biriktikçe değil, paylaştıkça çoğalacağı inancının bir yansımasıdır. Bu kaynağın, ruh sağlığı alanına tutkuyla bağlı herkes için bir ışık olmasını, her bir okuyucunun kendi mesleki yolculuğunda yeni kapılar aralamasına vesile olmasını umuyorum.
+
+Bu, bir ders notu koleksiyonu değil, bilginin, deneyimin ve umudun özgürleşme hikayesidir.
 
 ### İçindekiler:
 
